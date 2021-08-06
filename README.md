@@ -2,7 +2,7 @@
 
 🎓 _Computer Science at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
 
-### I am a Full stack developer with knowledge in Nodejs, Laravel, React Native and motivated to learn more ⚡.
+I am a Full stack developer with knowledge in Nodejs, Laravel, React Native and motivated to learn more ⚡.
 
 <!--
 ![patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrick100&show_icons=true)
@@ -21,7 +21,7 @@
 ### 📨 Contact
 - **GitHub:** [patrick100](https://github.com/patrick100)
 - **Email:** [patrickdz96@gmail.com](mailto:patrickdz96@gmail.com)
-- **LinkedIn:** [patrick-lazo](https://www.linkedin.com/in/patrick-lazo/)
+- **LinkedIn:** [Patrick Lazo](https://www.linkedin.com/in/patrick-lazo/)
 
 <!--
 **patrick100/patrick100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
