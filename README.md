@@ -14,7 +14,7 @@ I am a Full stack developer with knowledge in Nodejs, Laravel, React Native and 
 ### 📚 Topics of interest 
 - Mobile Development 
 - GraphQL
-- Competitive programming 
+- Competitive Programming 
 - Deep Learning 
 
 
