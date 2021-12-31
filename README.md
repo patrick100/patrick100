@@ -2,7 +2,7 @@
 
 🎓 _Computer Science at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
 
-I am a Full stack developer with knowledge in Nodejs, Laravel, React Native and motivated to learn more ⚡.
+I am a Back End developer with knowledge in NodeJS, NestJS, GraphQL,Jest and motivated to learn more ⚡.
 
 <!--
 ![patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrick100&show_icons=true)
@@ -12,7 +12,7 @@ I am a Full stack developer with knowledge in Nodejs, Laravel, React Native and 
 -->
 
 ### 📚 Topics of interest 
-- Mobile Development 
+- Backend Development 
 - GraphQL
 - Competitive Programming 
 - Deep Learning 
